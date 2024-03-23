@@ -5,7 +5,7 @@
 - 🎓 Computer Engineering Graduate(3.65 GPA).
 - 🎮 Indie Game Developer who does coding and designing.
 - 📍 Located in South Korea.
-- 🎭 KOOKUGANG is my indie game developer name, Margot Linne is my English name.
+- 🎭 KookuBerry is my indie game developer name, Margot Linne is my English name.
 - 💼 Total part-time-job experiences: 5 years 4 months
 - 📚 3 years of experiences of making Unity2D game as an indie game developer. Currently working on Godot, Pygame, SDL2.
 
