@@ -16,7 +16,7 @@
   <a href="https://margotlinne.itch.io/">
     <img alt="Static Badge" src="https://img.shields.io/badge/Itch.io-0?style=for-the-badge&logo=Itch.io&color=beige">
   </a>
-  <a href="https://margotlinne.github.io">
+  <a href="https://margotlinne.github.io" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-0?style=for-the-badge&color=red">
   </a>
 </div> 
