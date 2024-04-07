@@ -7,7 +7,7 @@
 - 📍 Located in South Korea.
 - 🎭 LinneDev is my indie game developer name, Margot Linne is my English name.
 - 💼 Total part-time-job experiences: 5 years 4 months
-- 📚 3 years of experiences of making Unity2D game as an indie game developer. Currently working on Godot, Pygame, SDL2.
+- 📚 3 years of experiences of making Unity2D game as an indie game developer. Currently working on Godot and willing to work on pygame, SDL2, OpenGL.
 
 <div>
   <a href="mailto:m.linnedev@gmail.com">
