@@ -43,16 +43,18 @@
 
 ### Projects(solo)
 
-* <a href="https://github.com/margotlinne/Unity2D-FALLCUP">FALLCUP</a> (Unity2D - Android)
-* <a href="https://github.com/margotlinne/Unity2D-ATTACKBUG">ATTACK! BUG!</a> (Unity2D - WebGL)
-* <a href="https://github.com/margotlinne/Unity2D-CHASED">CAHSED</a> (Unity2D - WebGL)
-* <a href="https://github.com/margotlinne/Unity2D-MrFlowersJourney">Mr Flower's Journey for lost Seeds</a> (Unity2D - WebGL)
-* <a href="https://github.com/margotlinne/Unity2D-FallingBugs">Falling Bugs</a> (Unity2D - WebGL)
-* <a href="https://github.com/margotlinne/Unity2D-FlyingBee">Flying Bee</a> (Unity2D - WebGL)
-* <a href="https://github.com/margotlinne/Unity2D-StepOrFall">Step Or Fall</a> (Unity2D - WebGL)
-* <a href="https://github.com/margotlinne/Unity2D-KoreanClass">Korean Class</a> (Unity2D)
-* <a href="https://github.com/margotlinne/Unity2D-CupUp">CUP: UP</a> (Unity2D - WebGL)
- 
+Engine | Title | Time Frame | Team Size
+:-----|:------|:------|:------
+Unity | <a href="https://github.com/margotlinne/Unity2D-FALLCUP">FALLCUP</a> | 2 weeks | 1
+Unity | <a href="https://github.com/margotlinne/Unity2D-ATTACKBUG">ATTACK! BUG!</a> | 5 days | 1
+Unity | <a href="https://github.com/margotlinne/Unity2D-CHASED">CAHSED</a> | 3 days | 1
+Unity | <a href="https://github.com/margotlinne/Unity2D-MrFlowersJourney">Mr Flower's Journey for lost Seeds</a> | 5 weeks | 1
+Unity | <a href="https://github.com/margotlinne/Unity2D-FallingBugs">Falling Bugs</a> | 2 days | 1
+Unity | <a href="https://github.com/margotlinne/Unity2D-FlyingBee">Flying Bee</a> | 4 weeks | 1
+Unity | <a href="https://github.com/margotlinne/Unity2D-StepOrFall">Step Or Fall</a> | 2 days | 1 
+Unity | <a href="https://github.com/margotlinne/Unity2D-KoreanClass">Korean Class</a> | 11 weeks | 1
+Unity | <a href="https://github.com/margotlinne/Unity2D-CupUp">CUP: UP</a> | 11 weeks | 1
+Godot | <a href="https://github.com/margotlinne/Godot2D-ServeTheBurger">Serve The Burger</a> | 3 weeks | 1
 
 
 
