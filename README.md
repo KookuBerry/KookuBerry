@@ -10,13 +10,13 @@
 - 📚 Been 3 years making Unity and Godot game as an indie game developer. Currently planning working on Love, Pygame, SDL2. 
 
 <div>
-  <a href="mailto:m.linnedev@gmail.com" target="_blank">
+  <a href="mailto:m.linnedev@gmail.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/GMail-0?style=for-the-badge&logo=GMail&color=skyblue">
   </a>
-  <a href="https://margotlinne.itch.io/" target="_blank">
+  <a href="https://margotlinne.itch.io/">
     <img alt="Static Badge" src="https://img.shields.io/badge/Itch.io-0?style=for-the-badge&logo=Itch.io&color=beige">
   </a>
-  <a href="https://margotlinne.github.io" target="_blank">
+  <a href="https://margotlinne.github.io">
     <img alt="Static Badge" src="https://img.shields.io/badge/Website-0?style=for-the-badge&color=red">
   </a>
 </div> 
