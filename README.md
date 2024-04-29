@@ -7,7 +7,7 @@
 - 📍 Located in South Korea.
 - 🎭 LinneDev is my indie game developer name, Margot Linne is my English name.
 - 💼 Total part-time-job experiences: 5 years 4 months
-- 📚 Been 3 years making Unity and Godot game as an indie game developer. Currently planning working on Love, Pygame, SDL2. 
+- 📚 Been 3 years making Unity and Godot game as an indie game developer. Currently working on Love2D, and planning on Pygame & SDL2. 
 
 <div>
   <a href="mailto:m.linnedev@gmail.com">
@@ -29,15 +29,6 @@
 
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,html,css /">
 <img src ="https://skillicons.dev/icons?i=unity,godot,androidstudio,github,visualstudio,vscode,mysql /"> 
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Google_Sheets_2020_Logo.svg/1200px-Google_Sheets_2020_Logo.svg.png" alt="googlesheet" height="40" width="30">  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" alt="adobeillustrator" height="40" width="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="adobephotoshop" height="40" width="40">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--YGxwGvj5--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/9bb71oo62xi7c9d5h1mo.png" alt="sdl2" height="40" width="50">
-  <img src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" alt="pygame" height="40" width="40">
-  <img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/kenshape-logo.png" alt="kenshape" height="40" width="80">
-
-</div>
 
 ---
 
