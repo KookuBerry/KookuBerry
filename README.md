@@ -32,7 +32,7 @@
 
 ---
 
-### Projects(solo)
+### Projects
 
 Engine | Title | Time Frame | Team Size
 :-----|:------|:------|:------
@@ -46,6 +46,14 @@ Unity | <a href="https://github.com/margotlinne/Unity2D-StepOrFall">Step Or Fall
 Unity | <a href="https://github.com/margotlinne/Unity2D-KoreanClass">Korean Class</a> | 11 weeks | 1
 Unity | <a href="https://github.com/margotlinne/Unity2D-CupUp">CUP: UP</a> | 11 weeks | 1
 Godot | <a href="https://github.com/margotlinne/Godot2D-ServeTheBurger">Serve The Burger</a> | 3 weeks | 1
+
+---
+
+### Devlog
+
+Title | Devlog link
+:---|:---
+Serve The Burger | <a href="https://gist.github.com/margotlinne/782c8d18b28444897baced896417e81f">#0</a>   <a href="https://gist.github.com/margotlinne/4b5d80b0341920e9a5b5e58a02817b6f">#1</a>   <a href="https://gist.github.com/margotlinne/fe4f2a67f747779679b4a2f2fd6690c4">#2</a>   <a href="https://gist.github.com/margotlinne/ef56bef5766a691a145b32d042c3f749">#3</a>   
 
 
 
