@@ -5,7 +5,7 @@
 - 🎓 Computer Engineering Graduate(2024.02, 3.65 GPA).
 - 🎮 Indie Game Developer who does coding and designing.
 - 📍 Located in South Korea.
-- 🎭 LinneDev is my indie game developer name, Margot Linne is my English name.
+- 🎭 margot ade is my indie game developer name, Margot Linne is my English name.
 - 💼 Total part-time-job experiences: 5 years 4 months
 - 📚 Been 3 years making Unity and Godot game as an indie game developer. Currently working on Love2D, and planning on Pygame & SDL2. 
 
