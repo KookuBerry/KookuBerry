@@ -36,16 +36,16 @@
 
 Engine | Title | Time Frame | Team Size
 :-----|:------|:------|:------
-Unity | <a href="https://github.com/margotlinne/Unity2D-FALLCUP">FALLCUP</a> | 2 weeks | 1
-Unity | <a href="https://github.com/margotlinne/Unity2D-ATTACKBUG">ATTACK! BUG!</a> | 5 days | 1
-Unity | <a href="https://github.com/margotlinne/Unity2D-CHASED">CAHSED</a> | 3 days | 1
-Unity | <a href="https://github.com/margotlinne/Unity2D-MrFlowersJourney">Mr Flower's Journey for lost Seeds</a> | 5 weeks | 1
-Unity | <a href="https://github.com/margotlinne/Unity2D-FallingBugs">Falling Bugs</a> | 2 days | 1
-Unity | <a href="https://github.com/margotlinne/Unity2D-FlyingBee">Flying Bee</a> | 4 weeks | 1
-Unity | <a href="https://github.com/margotlinne/Unity2D-StepOrFall">Step Or Fall</a> | 2 days | 1 
-Unity | <a href="https://github.com/margotlinne/Unity2D-KoreanClass">Korean Class</a> | 11 weeks | 1
-Unity | <a href="https://github.com/margotlinne/Unity2D-CupUp">CUP: UP</a> | 11 weeks | 1
-Godot | <a href="https://github.com/margotlinne/Godot2D-ServeTheBurger">Serve The Burger</a> | 3 weeks | 1
+Unity | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/FALLCUP">FALLCUP</a> | 2 weeks | 1
+Unity | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/ATTACK!BUG!">ATTACK! BUG!</a> | 5 days | 1
+Unity | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/CHASED">CAHSED</a> | 3 days | 1
+Unity | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/Mr%20Flowers%20Journey">Mr Flower's Journey for lost Seeds</a> | 5 weeks | 1
+Unity | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/Falling%20Bugs">Falling Bugs</a> | 2 days | 1
+Unity | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/Flying%20Bee">Flying Bee</a> | 4 weeks | 1
+Unity | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/Step%20or%20Fall">Step Or Fall</a> | 2 days | 1 
+Unity | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/Korean%20Class">Korean Class</a> | 11 weeks | 1
+Unity | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/CUP%20UP">CUP: UP</a> | 11 weeks | 1
+Godot | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Godot2D/Serve%20The%20Burger">Serve The Burger</a> | 3 weeks | 1
 
 ---
 
