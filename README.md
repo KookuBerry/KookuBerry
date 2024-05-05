@@ -1,5 +1,6 @@
 # Hi there 안녕하세요 👋 I'm Margot Linne!
-<br>
+
+###### 각 프로젝트의 레포지토리를 비공개로 설정해 놓았으니 제 포트폴리오의 링크를 통해 오신 분들께선 [아래](#projects)의 링크를 통해서 코드 및 개요를 확인해주세요 :)
 
 ### About Me
 - 🎓 Computer Engineering Graduate(2024.02, 3.65 GPA).
@@ -33,6 +34,7 @@
 ---
 
 ### Projects 
+
 <a href="https://github.com/margotlinne/Projects_scripts">go check info</a>
 
 Engine | Title(link to core scripts folder) | Time Frame | Team Size
