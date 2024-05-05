@@ -32,9 +32,10 @@
 
 ---
 
-### <a href="https://github.com/margotlinne/Projects_scripts">Projects</a>
+### Projects 
+<a href="https://github.com/margotlinne/Projects_scripts">go check info</a>
 
-Engine | Title | Time Frame | Team Size
+Engine | Title(link to core scripts folder) | Time Frame | Team Size
 :-----|:------|:------|:------
 Unity | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/FALLCUP">FALLCUP</a> | 2 weeks | 1
 Unity | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/ATTACK!BUG!">ATTACK! BUG!</a> | 5 days | 1
