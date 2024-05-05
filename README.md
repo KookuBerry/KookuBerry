@@ -17,8 +17,14 @@
   <a href="https://margotlinne.itch.io/">
     <img alt="Static Badge" src="https://img.shields.io/badge/Itch.io-0?style=for-the-badge&logo=Itch.io&color=beige">
   </a>
+  <a href="https://www.youtube.com/channel/UCVz1upC0vpTMcWGpHT4CGBw">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Channel-0?style=for-the-badge&logo=YouTube&color=red">
+  </a>
   <a href="https://margotlinne.github.io">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Website-0?style=for-the-badge&color=red">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Website-0?style=for-the-badge&color=yellow">
+  </a>
+  <a href="https://miro-studio.tistory.com">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Blog(Kor)-0?style=for-the-badge&color=pink">
   </a>
 </div> 
 
