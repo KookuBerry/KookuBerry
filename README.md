@@ -58,7 +58,7 @@ Godot | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Godot
 Love2D | unnamed | Casual Memory Match Up | - | in progress | 1
 Godot | unnamed | Casual Speed-run&Rage Type | - | in progress | 1
 
-###### ordered by timeline
+###### in order of time
 
 ---
 
