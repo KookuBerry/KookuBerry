@@ -55,9 +55,8 @@ Unity | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity
 Unity | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/Korean%20Class">Korean Class</a> | Educational Language | N | 11 weeks | 1
 Unity | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/CUP%20UP">CUP: UP</a> | Casual Speed-run Type | N | 11 weeks | 1
 Godot | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Godot2D/Serve%20The%20Burger">Serve The Burger</a> | Casual Catch Falling Objects | <a href="https://margotlinne.itch.io/serve-the-burger">itch.io</a> | 3 weeks | 1
-Love2D | Flip The Burger | Casual Memory Match Up | - | 1 week | 1
+Love2D | Flip The Burger | Casual Memory Match Up | <a href="https://margotlinne.itch.io/flip-the-burger">itch.io</a> | 1 week | 1
 Godot | unnamed | Casual Speed-run&Rage Type | - | in progress | 1
-Godot | unnamed | Turn Based Card | - | in porgress | 1
 
 ###### in order of time
 
