@@ -8,7 +8,7 @@
 - 📍 Located in South Korea.
 - 🎭 margot ade is my indie game developer name, Margot Linne is my English name.
 - 💼 Total part-time-job experiences: 5 years 4 months
-- 📚 Been 3 years making Unity and Godot game as an indie game developer. Currently working on Love2D, and planning on Pygame & SDL2. 
+- 📚 Been 3 years making Unity game as an indie game developer. Currently made games with Godot and Love2D.
 
 <div>
   <a href="mailto:m.linnedev@gmail.com">
