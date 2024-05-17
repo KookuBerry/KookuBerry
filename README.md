@@ -39,24 +39,38 @@
 
 ---
 
-### Projects 
+### Main Projects 
 
 <a href="https://github.com/margotlinne/Projects_scripts">go check info</a>
+
+Engine | Title(link to core scripts folder) | Genre | Platform | Time Frame | Team Size
+:-----|:------|:------|:------ |:------ |:------
+Unity | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/Mr%20Flowers%20Journey">Mr Flower's Journey for lost Seeds</a> | Casual Platformer | N | 5 weeks | 1
+Unity | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/Flying%20Bee">Flying Bee</a> | Casual Path Drawing | N | 4 weeks | 1
+Unity | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/Korean%20Class">Korean Class</a> | Educational Language | N | 11 weeks | 1
+Unity | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/CUP%20UP">CUP: UP</a> | Casual Speed-run Type | N | 11 weeks | 1
+Godot | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Godot2D/Serve%20The%20Burger">Serve The Burger</a> | Casual Catch Falling Objects | <a href="https://margotlinne.itch.io/serve-the-burger">itch.io</a> | 3 weeks | 1
+Godot | unnamed | Casual Speed-run&Rage Type | - | in progress | 1
+
+<br>
+
+### Mini Projects 
 
 Engine | Title(link to core scripts folder) | Genre | Platform | Time Frame | Team Size
 :-----|:------|:------|:------ |:------ |:------
 Unity | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/FALLCUP">FALLCUP</a> | Hyper Casual Endless Runner | N | 2 weeks | 1
 Unity | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/ATTACK!BUG!">ATTACK! BUG!</a> | Hyper Casual Top-down Shooting | N | 5 days | 1
 Unity | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/CHASED">CAHSED</a> | Hyper Casual Endless Runner | N | 3 days | 1
-Unity | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/Mr%20Flowers%20Journey">Mr Flower's Journey for lost Seeds</a> | Casual Platformer | N | 5 weeks | 1
 Unity | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/Falling%20Bugs">Falling Bugs</a> | Hyper Casual Avoid Falling Objects | N | 2 days | 1
-Unity | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/Flying%20Bee">Flying Bee</a> | Casual Path Drawing | N | 4 weeks | 1
 Unity | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/Step%20or%20Fall">Step Or Fall</a> | Hyper Casual Endless Runner | N | 2 days | 1 
-Unity | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/Korean%20Class">Korean Class</a> | Educational Language | N | 11 weeks | 1
-Unity | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/CUP%20UP">CUP: UP</a> | Casual Speed-run Type | N | 11 weeks | 1
-Godot | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Godot2D/Serve%20The%20Burger">Serve The Burger</a> | Casual Catch Falling Objects | <a href="https://margotlinne.itch.io/serve-the-burger">itch.io</a> | 3 weeks | 1
+
+<br>
+
+### Side Projects
+
+Engine | Title(link to core scripts folder) | Genre | Platform | Time Frame | Team Size
+:-----|:------|:------|:------ |:------ |:------
 Love2D | Flip The Burger | Casual Memory Match Up | <a href="https://margotlinne.itch.io/flip-the-burger">itch.io</a> | 1 week | 1
-Godot | unnamed | Casual Speed-run&Rage Type | - | in progress | 1
 
 ###### in order of time
 
@@ -66,7 +80,7 @@ Godot | unnamed | Casual Speed-run&Rage Type | - | in progress | 1
 
 Title | Devlog link(Eng) | Video link
 :---|:--- |:---
-Serve The Burger | <a href="https://gist.github.com/margotlinne/782c8d18b28444897baced896417e81f">#0</a>   <a href="https://gist.github.com/margotlinne/4b5d80b0341920e9a5b5e58a02817b6f">#1</a>   <a href="https://gist.github.com/margotlinne/fe4f2a67f747779679b4a2f2fd6690c4">#2</a>   <a href="https://gist.github.com/margotlinne/ef56bef5766a691a145b32d042c3f749">#3</a>   | in progress
+Serve The Burger | <a href="https://gist.github.com/margotlinne/782c8d18b28444897baced896417e81f">#0</a>   <a href="https://gist.github.com/margotlinne/4b5d80b0341920e9a5b5e58a02817b6f">#1</a>   <a href="https://gist.github.com/margotlinne/fe4f2a67f747779679b4a2f2fd6690c4">#2</a>   <a href="https://gist.github.com/margotlinne/ef56bef5766a691a145b32d042c3f749">#3</a>   | N
 
 
 
