@@ -70,7 +70,7 @@ Unity | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity
 
 Engine | Title(link to core scripts folder) | Genre | Platform | Time Frame | Team Size
 :-----|:------|:------|:------ |:------ |:------
-Love2D | Flip The Burger | Casual Memory Match Up | <a href="https://margotlinne.itch.io/flip-the-burger">itch.io</a> | 1 week | 1
+Love2D | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Love2D/Flip%20The%20Burger">Flip The Burger</a> | Casual Memory Match Up | <a href="https://margotlinne.itch.io/flip-the-burger">itch.io</a> | 1 week | 1
 
 ###### in order of time
 
