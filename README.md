@@ -21,10 +21,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Channel-0?style=for-the-badge&logo=YouTube&color=red">
   </a>
   <a href="https://margotlinne.github.io">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Website-0?style=for-the-badge&color=yellow">
-  </a>
-  <a href="https://miro-studio.tistory.com">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Blog(Kor)-0?style=for-the-badge&color=pink">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-0?style=for-the-badge&color=yellow">
   </a>
 </div> 
 
