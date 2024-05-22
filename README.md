@@ -69,7 +69,7 @@ Love2D | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Love
 
 ### Games
 
-Engine | Title(link to core scripts folder) | Genre | Platform | Time Frame | Team Size
+Engine | Title | Genre | Platform | Time Frame | Team Size
 :-----|:------|:------|:------ |:------ |:------
 Godot2D | unnamed | Speed Run Type | - | in progress | 1
 undecided | unnamed | Hidden Objects | - | planned | 1
