@@ -71,10 +71,11 @@ Love2D | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Love
 
 Engine | Title | Genre | Platform | Time Frame | Team Size
 :-----|:------|:------|:------ |:------ |:------
-Godot2D | unnamed | Speed Run Type | - | in progress | 1
-undecided | unnamed | Hidden Objects | - | planned | 1
-undecided | unnamed | Supermarket Simulation | - | planned | 1
-undecided | unnamed | Turn Based Card Game | - | planned | 1
+Godot2D | unnamed | Speed Run Type Game | - | in progress | 1
+undecided | unnamed | Mystery Choise-Based Game| - | planned | 1
+undecided | unnamed | Hidden Objects Game | - | planned | 1
+undecided | unnamed | Supermarket Simulation Game | - | planned | 1
+undecided | unnamed | Turn Based-Card Game | - | planned | 1
 
 
 ###### in order of time
