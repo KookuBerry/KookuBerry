@@ -42,9 +42,9 @@
 
 Engine | Title(link to core scripts folder) | Genre | Platform | Time Frame | Team Size
 :-----|:------|:------|:------ |:------ |:------
-Unity2D | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/Korean%20Class">Korean Class</a> | Educational Language | N | 11 weeks | 1
-Unity2D | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/CUP%20UP">CUP: UP</a> | Casual Speed-run Type | N | 11 weeks | 1
-Godot2D | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Godot2D/Serve%20The%20Burger">Serve The Burger</a> | Casual Catch Falling Objects | <a href="https://margotlinne.itch.io/serve-the-burger">itch.io</a> | 3 weeks | 1
+Unity2D | <a href="">Korean Class</a> | Educational Language | N | 11 weeks | 1
+Unity2D | <a href="">CUP: UP</a> | Casual Speed-run Type | N | 11 weeks | 1
+Godot2D | <a href="">Serve The Burger</a> | Casual Catch Falling Objects | <a href="https://margotlinne.itch.io/serve-the-burger">itch.io</a> | 3 weeks | 1
 undecided 3D | unnamed | Baulder's Gate3 Type | - | planned | undecided
 
 <br>
@@ -53,14 +53,14 @@ undecided 3D | unnamed | Baulder's Gate3 Type | - | planned | undecided
 
 Engine | Title(link to core scripts folder) | Genre | Platform | Time Frame | Team Size
 :-----|:------|:------|:------ |:------ |:------
-Unity2D | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/FALLCUP">FALLCUP</a> | Hyper Casual Endless Runner | N | 2 weeks | 1
-Unity2D | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/ATTACK!BUG!">ATTACK! BUG!</a> | Hyper Casual Top-down Shooting | N | 5 days | 1
-Unity2D | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/CHASED">CAHSED</a> | Hyper Casual Endless Runner | N | 3 days | 1
-Unity2D | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/Mr%20Flowers%20Journey">Mr Flower's Journey for lost Seeds</a> | Casual Platformer | N | 5 weeks | 1
-Unity2D | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/Falling%20Bugs">Falling Bugs</a> | Hyper Casual Avoid Falling Objects | N | 2 days | 1
-Unity2D | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/Flying%20Bee">Flying Bee</a> | Casual Path Drawing | N | 4 weeks | 1
-Unity2D | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Unity2D/Step%20or%20Fall">Step Or Fall</a> | Hyper Casual Endless Runner | N | 2 days | 1 
-Love2D | <a href="https://github.com/margotlinne/Projects_scripts/tree/main/Love2D/Flip%20The%20Burger">Flip The Burger</a> | Casual Memory Match Up | <a href="https://margotlinne.itch.io/flip-the-burger">itch.io</a> | 1 week | 1
+Unity2D | <a href="">FALLCUP</a> | Hyper Casual Endless Runner | N | 2 weeks | 1
+Unity2D | <a href="">ATTACK! BUG!</a> | Hyper Casual Top-down Shooting | N | 5 days | 1
+Unity2D | CAHSED | Hyper Casual Endless Runner | N | 3 days | 1
+Unity2D | <a href="">Mr Flower's Journey for lost Seeds</a> | Casual Platformer | N | 5 weeks | 1
+Unity2D | Falling Bugs | Hyper Casual Avoid Falling Objects | N | 2 days | 1
+Unity2D | <a href="">Flying Bee</a> | Casual Path Drawing | N | 4 weeks | 1
+Unity2D | Step Or Fall | Hyper Casual Endless Runner | N | 2 days | 1 
+Love2D | <a href="">Flip The Burger</a> | Casual Memory Match Up | <a href="https://margotlinne.itch.io/flip-the-burger">itch.io</a> | 1 week | 1
 
 <br>
 
