@@ -64,7 +64,7 @@ Love2D | <a href="">Flip The Burger</a> | Casual Memory Match Up | <a href="http
 
 <br>
 
-### Games
+### Indie Games
 
 Engine | Title | Genre | Platform | Time Frame | Team Size
 :-----|:------|:------|:------ |:------ |:------
