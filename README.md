@@ -45,7 +45,7 @@ Engine | Title(link to core scripts folder) | Genre | Platform | Time Frame | Te
 Unity2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/Unity2D/Korean%20Class">Korean Class</a> | Educational Language | N | 11 weeks | 1
 Unity2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/Unity2D/CUP%20UP">CUP: UP</a> | Casual Speed-run Type | N | 11 weeks | 1
 Godot2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/Godot2D/Serve%20The%20Burger">Serve The Burger</a> | Casual Catch Falling Objects | <a href="https://margotlinne.itch.io/serve-the-burger">itch.io</a> | 3 weeks | 1
-undecided 3D | unnamed | Baulder's Gate3 Type | - | planned | undecided
+Unity3D | unnamed | RPG Turn Based | - | in progress | 1
 
 <br>
 
