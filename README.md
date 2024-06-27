@@ -31,14 +31,18 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,html,css,lua /">
-<img src ="https://skillicons.dev/icons?i=unity,godot,androidstudio,github,visualstudio,vscode/"> 
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,html,css /">
+<img src ="https://skillicons.dev/icons?i=unity,godot,androidstudio,github,visualstudio,vscode,lua /"> 
 
 ---
 
 <a href="">check source codes</a>
 
-### Main Projects 
+### Application Projects
+
+<br>
+
+### Game Projects 
 
 Engine | Title(link to core scripts folder) | Genre | Platform | Time Frame | Team Size
 :-----|:------|:------|:------ |:------ |:------
@@ -46,13 +50,6 @@ Unity2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/U
 Unity2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/Unity2D/CUP%20UP">CUP: UP</a> | Casual Speed-run Type | N | 11 weeks | 1
 Godot2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/Godot2D/Serve%20The%20Burger">Serve The Burger</a> | Casual Catch Falling Objects | <a href="https://margotlinne.itch.io/serve-the-burger">itch.io</a> | 3 weeks | 1
 Unity3D | <a href="https://github.com/margotlinne/SutakFanGame">unnamed</a> | RPG Turn Based | - | in progress | 1
-
-<br>
-
-### Mini Projects 
-
-Engine | Title(link to core scripts folder) | Genre | Platform | Time Frame | Team Size
-:-----|:------|:------|:------ |:------ |:------
 Unity2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/Unity2D/FALLCUP">FALLCUP</a> | Hyper Casual Endless Runner | N | 2 weeks | 1
 Unity2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/Unity2D/ATTACK!BUG!">ATTACK! BUG!</a> | Hyper Casual Top-down Shooting | N | 5 days | 1
 Unity2D | CAHSED | Hyper Casual Endless Runner | N | 3 days | 1
@@ -72,9 +69,6 @@ Godot2D | unnamed | Speed Run Type Game | - | in progress | 1
 undecided | unnamed | Mystery Choise-Based Game| - | planned | 1
 undecided | unnamed | Supermarket Simulation Game | - | planned | 1
 undecided | unnamed | Turn Based-Card Game | - | planned | 1
-
-
-###### in order of time
 
 <br>
 
