@@ -32,7 +32,7 @@
 <br>
 
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,html,css,lua /">
-<img src ="https://skillicons.dev/icons?i=unity,godot,androidstudio,github,visualstudio,vscode,mysql /"> 
+<img src ="https://skillicons.dev/icons?i=unity,godot,androidstudio,github,visualstudio,vscode/"> 
 
 ---
 
